@@ -5,19 +5,32 @@ title: Bakemonogatari ITA
 
 # Bakemonogatari - Traduzione Italiana
 
-Benvenuti nella mia traduzione amatoriale della serie di Nisio Isin. Qui sotto trovate i volumi.
+Benvenuti nella mia traduzione amatoriale della serie di Nisio Isin. Qui sotto trovate i vari archi narrativi.
 
 ---
 
-## 📚 Volume 1: Bakemonogatari (Parte 1)
+#  ▶️Bakemonogatari parte 1:
 
-### 🦀 Primo Arco: Hitagi Crab
+---
+## 🦀 Primo capitolo: Hitagi Crab
 * [Leggi il racconto completo](./volumi/bake_01/hitagi_crab/hitagi_crab.md)
 
-### 🐌 Secondo Arco: Mayoi Snail
+---
+## 🐌 Secondo capitolo: Mayoi Snail
 * [Leggi il racconto completo](./volumi/bake_01/mayoi_snail/mayoi_snail.md)
 
+---
 ### 🖋️ Extra
 * [Postfazione dell'autore](./volumi/bake_01/postfazione/postfazione.md)
 ---
-> *Nota: Questa è una traduzione fan-made senza fini di lucro. Supportate l'opera originale acquistando i volumi ufficiali.*
+# Bakemonogatari parte 2:
+
+---
+# 🐒Terzo capitolo: Suruga Monkey
+
+* [Leggi il racconto completo](./volumi/bake_02/suruga_monkey/suruga_monkey.md)
+
+---
+# 🐍Quarto capitolo: Nadeko snake
+
+* [Leggi il racconto completo](./volumi/bake_02/nadeko_snake/nadeko_snake.md)
