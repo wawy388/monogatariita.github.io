@@ -2,7 +2,7 @@
 
 # Bakemonogatari parte 1
 
-*Una storia di mostri
+*Una storia di mostri*
 
 ## Capitolo 1: Hitagi crab
 
