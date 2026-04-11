@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Bakemonogatari - Traduzione Italiana
 Benvenuti nel mio progetto di traduzione.
 
