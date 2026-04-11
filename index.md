@@ -3,34 +3,28 @@ layout: default
 title: Bakemonogatari ITA
 ---
 
-# Bakemonogatari - Traduzione Italiana
+# 🏛️ Archivio Monogatari Series
 
-Benvenuti nella mia traduzione amatoriale della serie di Nisio Isin. Qui sotto trovate i vari archi narrativi.
+Benvenuti nel mio tentativo di traduzione italiana fan made. 
+
+---
+
+## 🩸 First Season
+
+### Bakemonogatari parte 1
+* [🦀 Hitagi Crab](./volumi/01_first_season/bake_01/hitagi_crab.md)
+* [🐌 Mayoi Snail](./volumi/01_first_season/bake_01/mayoi_snail.md)
+
+### Bakemonogatari parte 2
+* [🐒 Suruga Monkey](./volumi/01_first_season/bake_02/suruga_monkey.md)
+* [🐍Nadeko Snake](./volumi/01_first_season/bake_02/nadeko_snake.md)
 
 ---
 
-#  ▶️Bakemonogatari parte 1:
+### 🖋️ Extra & Appendici
+* [Postfazione dell'Autore](./volumi/01_first_season/bake_01/postfazione.md)
 
 ---
-## 🦀 Primo capitolo: Hitagi Crab
-* [Leggi il racconto completo](./volumi/bake_01/hitagi_crab/hitagi_crab.md)
 
----
-## 🐌 Secondo capitolo: Mayoi Snail
-* [Leggi il racconto completo](./volumi/bake_01/mayoi_snail/mayoi_snail.md)
-
----
-### 🖋️ Extra
-* [Postfazione dell'autore](./volumi/bake_01/postfazione/postfazione.md)
----
-# Bakemonogatari parte 2:
-
----
-# 🐒Terzo capitolo: Suruga Monkey
-
-* [Leggi il racconto completo](./volumi/bake_02/suruga_monkey/suruga_monkey.md)
-
----
-# 🐍Quarto capitolo: Nadeko snake
-
-* [Leggi il racconto completo](./volumi/bake_02/nadeko_snake/nadeko_snake.md)
+## 🌙 Second Season
+*Le traduzioni per questa stagione inizieranno prossimamente.*
