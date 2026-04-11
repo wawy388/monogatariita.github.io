@@ -6,4 +6,4 @@ layout: default
 Benvenuti nel mio progetto di traduzione.
 
 ## Indice
-* [Capitolo 1: Hitagi Crab](./VOLUMI/Volume_01/capitolo_01.md)
+* [Capitolo 1: Hitagi Crab](./volumi/volume_01/capitolo_01.md)
