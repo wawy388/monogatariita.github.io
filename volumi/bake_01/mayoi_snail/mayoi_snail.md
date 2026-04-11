@@ -1,6 +1,6 @@
-\*\*\* Capitolo 2: Mayoi snail
+# Capitolo 2: Mayoi snail
 
-\## 1.
+## 1.
 Ho incontrato Mayoi Hachikuji il quattordici di maggio, una domenica. Questo giorno era la Festa della Mamma in tutto il Giappone. Che tu ami tua madre o no, che tu vada d'accordo con tua madre o no, quel giorno è la Festa della Mamma per ogni singola persona giapponese. Vorrei dire che la Festa della Mamma ha avuto origine in America. In tal senso, forse sarebbe meglio considerarla una sorta di evento, proprio come il Giappone fa con il Natale, Halloween, San Valentino e simili. Ma in ogni caso, di tutti i trecentosessantacinque giorni dell'anno, questo giorno, il quattordici di maggio, era quello in cui si vendevano più garofani rispetto a qualsiasi altro, e in cui i buoni che promettevano massaggi alla schiena, faccende domestiche e così via venivano scambiati nelle case di tutto il paese. Beh, non so davvero se quel genere di usanze venga ancora osservato, ma sono sicuro che il quattordici di maggio di quest'anno fosse effettivamente la Festa della Mamma.
 Ed è stato in quel giorno.
 Quel giorno, alle nove del mattino.
@@ -34,7 +34,7 @@ Ero stato piuttosto calmo mentre guardavo il cielo, ma ora, proprio in quel mome
 Oh, non c'è niente di meglio di un giorno feriale.
 Non può essere già domani? Ed è stato in questo strano stato... che è iniziato il mio episodio con una lumaca. O se la si guarda dall'altra prospettiva, l'episodio probabilmente non sarebbe nemmeno iniziato se non fossi stato in un simile stato.
 
-\## 2.
+## 2.
 "Santo cielo, guarda un po' chi c'è qui. Pensavo che qualcuno avesse abbandonato un cane morto su una panchina del parco, ma sei solo tu, Araragi."
 Alzai la testa, convinto di aver appena sentito un saluto così originale da poter essere stato usato per la prima volta nella storia umana, e vidi la mia compagna di classe Hitagi Senjougahara in piedi davanti a me.
 Inutile dirlo, ma non indossava l'uniforme scolastica, dato che era domenica. Iniziai a chiedermi come avrei dovuto rispondere all'essere stato improvvisamente chiamato "cane morto", ma lei lì in piedi con abiti casual, con i capelli lisci raccolti in una coda di cavallo invece che sciolti come fa a scuola, era una vista così fresca che non potei impedirmi di ingoiare le parole che mi erano arrivate fino alla gola.
@@ -521,7 +521,7 @@ Doveva essere il suo modo di segnalare che aveva chiuso con l'argomento.
 Perciò.
 Decisi di guardare avanti. Mi sembrava di aver guardato il viso di Senjougahara per molto tempo, quindi mi concentrai su qualcos'altro, intenzionalmente o per imbarazzo... e lì. E lì vidi una ragazza. Una bambina che trasportava un grande zaino.
 
-\## 3.
+## 3.
 La ragazza sembrava frequentare gli ultimi anni delle elementari, e si stava dirigendo verso un cartello di metallo ai margini del parco: una mappa residenziale della zona. Mi dava le spalle, quindi non avevo idea di che aspetto avesse, ma il grande zaino che portava era così degno di nota... il che significava che l'ho riconosciuta immediatamente. Esatto, stava guardando quella mappa residenziale nello stesso identico modo solo qualche istante prima, prima che Senjougahara si presentasse. Non c'era voluto molto per scappare via, quella volta... ma sembrava essere tornata. A giudicare dall'aspetto, stava confrontando un biglietto che aveva con sé con ciò che era stampato sul cartello.
 Hmm.
 In altre parole, era una bambina smarrita. Il biglietto doveva avere una mappa disegnata a mano o un indirizzo scritto sopra.
@@ -780,7 +780,7 @@ Hachikuji continuava a non muoversi, così le afferrai la mano e la tirai, quasi
 Sarei tornato più tardi a riprendere la mia mountain bike.
 Per ora, lasciammo il parco, qualunque fosse il suo nome. Non ho mai avuto la possibilità di capirlo.
 
-\## 4.
+## 4.
 Penso che sia finalmente giunto il momento di parlare delle mie vacanze di primavera.
 È successo durante le vacanze di primavera.
 Sono stato attaccato da un vampiro.
@@ -1080,7 +1080,7 @@ Proprio come... un disco rotto.
 Come un disco ininterrotto.
 "Perché sono... una lumaca smarrita."
 
-\## 5.
+## 5.
 "Una Mucca Smarrita", disse Meme Oshino col basso brontolio di un uomo che era stato costretto a svegliarsi da mille anni di sonno pacifico e sigillato, tanto incredibilmente scontroso quanto intontito. Non era anemico, per quanto ne sapessi, ma sembrava comunque fare una fatica tremenda a svegliarsi. La differenza tra il modo in cui ci stava parlando in quel momento e le sue solite battute era impressionante.
 "Quella dev'essere una Mucca Smarrita."
 "Una mucca? No, ho detto una chiocciola."
@@ -1390,7 +1390,7 @@ Un numero a undici cifre apparve sul suo schermo a cristalli liquidi.
 Domenica, 14 maggio, 14:15:30.
 Quello fu il momento in cui ottenni il numero di cellulare di Senjougahara.
 
-\## 6.
+## 6.
 Quindi, che razza di spirito, spettro, demone o goblin è questa Mucca Smarrita, insomma? Cosa dobbiamo fare per sconfiggerla?"
 "Davvero, Araragi, pensi solo alla violenza. Ti è successo qualcosa di bello ultimamente?"
 Sembrava che Senjougahara avesse svegliato Oshino mentre dormiva. Borbottò qualcosa su quanto fosse terribile da parte sua interrompere la sua pigra domenica mattina, ma anche tralasciando il fatto che fosse già pomeriggio, ogni giorno per Oshino era una domenica di vacanze estive. Non aveva alcun diritto costituzionalmente garantito di pronunciare quelle parole, quindi non mi presi il disturbo di degnarle di una risposta.
@@ -1947,7 +1947,7 @@ Con la frangetta così corta che le si vedevano le sopracciglia, con i capelli r
 Guardandola, con quello zaino grande che portava...
 Somigliava un po' a una lumaca.
 
-\## 7.
+## 7.
 C'era una volta, tanto tanto tempo fa... vi porterebbe troppo indietro nel passato, questo accadeva circa dieci anni fa. C'era una volta una coppia di sposi la cui relazione giunse al termine. Un marito e una moglie. Insieme formavano una coppia. Una coppia che era l'invidia di tutti quelli che li circondavano, una coppia che tutti erano certi sarebbe stata felice, ma alla fine, la loro relazione matrimoniale fu una cosa di breve durata che durò meno di dieci anni.
 Non credo sia una questione di giusto o sbagliato.
 Anche quello era normale.
@@ -2396,5 +2396,5 @@ Immagino sia davvero una storia meravigliosa.
 
 
 
-\*\*\[ 🔙 TORNA ALL'INDICE ](../../../index.md)\*\*
+ [ 🔙 TORNA ALL'INDICE ](../../../index.md)
 
