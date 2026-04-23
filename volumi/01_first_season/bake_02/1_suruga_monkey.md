@@ -1,6 +1,7 @@
-# Capitolo secondo: Suruga Monkey
+# Bakemonogatari parte 2
+## Capitolo 3: Suruga Monkey
 ---
-## 1.
+### 1.
 
 Il nome Suruga Kanbaru appartiene a una celebrità nota in tutta la scuola, il che ovviamente significa che anch'io l'ho sentito una discreta quantità di volte. Le mie compagne di classe Tsubasa Hanekawa e Hitagi Senjougahara potrebbero essere non meno celebri, ma questo vale strettamente tra gli studenti del terzo anno. Sì, nonostante sia un anno sotto di me, Tsubasa Hanekawa e Hitagi Senjougahara e quindi al secondo anno, la fama di Suruga Kanbaru è così straordinaria da giungere alle orecchie di un diplomando come me, che è piuttosto estraneo a questo genere di pettegolezzi. Normalmente non dovrebbe succedere. Puoi fare il presuntuoso e ridacchiare dicendo che è sicuramente impressionante per una persona così giovane, ma nel suo caso, l'affermazione sarebbe scomodamente vicina alla verità. 
 
@@ -42,7 +43,7 @@ Ho imparato di essermi sbagliato quando maggio stava volgendo al termine, moment
 
 Già a quel punto, quando Suruga Kanbaru si è avvicinata a me con passi risonanti e mi ha rivolto la parola, la sua mano sinistra era strettamente avvolta in una benda bianca─
 
-## 2.
+### 2.
 
 "Ah... Signor Ah-ah-ah-gi." 
 
@@ -784,7 +785,7 @@ Quello sarebbe un gatto ben addestrato. 
 
 "Ascolta. Non mi piace come la gente cerchi di vedere tutto in termini romantici. Il 'potere dell'amore' di cui parlano nei vecchi film stranieri? Immagina quanto sarebbe pacifico il mondo se questo risolvesse davvero tutto. Assolutamente no, in alcun modo. Un obiettivo semplice, di basso calibro e realistico ha molto più senso. E comunque," dissi. "Ho già completato il livello con il personaggio alla massima difficoltà in assoluto."
 
-## 3.
+### 3.
 
 "Ho la sensazione che qualcuno abbia detto qualcosa di spiacevole su di me," mormorò all'improvviso Hitagi Senjougahara. 
 
@@ -1588,7 +1589,7 @@ Il che significava. 
 
 "Allora, Araragi." Gli occhi di Senjougahara erano privi di emozione. "Torniamo a studiare. Conosci la famosa osservazione di Thomas Edison? Disse che il genio è per l'uno percento ispirazione e per il novantanove percento traspirazione. Una grande citazione, degna di un genio. Ma scommetto che lui pensasse che quell'uno percento fosse più importante. Non dicono forse che è questo tutto ciò che separa i geni di un essere umano da quelli di una scimmia?"
 
-## 4.
+### 4.
 
 Per Senjougahara erano stati due anni, e per me due settimane. 
 
@@ -2220,7 +2221,7 @@ Per il momento, pensai a Senjougahara. 
 
 E a domani.
 
-## 5.
+### 5.
 
 La casa di Suruga Kanbaru distava circa trenta minuti di bici dal cancello principale della nostra scuola. Distava circa trenta minuti anche a piedi, a patto di correre per tutto il tragitto. All'inizio avevo provato a dire a Kanbaru di salire sul retro della mia bici per poter andare insieme, ma lei aveva sollevato obiezioni. È pericoloso andare in due su una sola bicicletta, e per cominciare è contro la legge, aveva detto. Beh, non potevo darle torto, e forse era riluttante perché salire sul retro significava doversi aggrappare a me per tutto il viaggio. In tal caso, pensai, avrei potuto spingere la bici e camminare al suo fianco o lasciarla a scuola, ma Kanbaru mi disse di non preoccuparmi per lei e di pedalare. E allora lei cosa avrebbe fatto, mi domandai, finché non mi disse, come se fosse la cosa più naturale del mondo: "Okay, ti mostro la strada", e partì di scatto sulle sue due gambe. Questo era vero ora così come quando mi stalkerava, ma per Suruga Kanbaru "scattare" sembrava essere un mezzo di trasporto proprio come "a piedi, in bici, in auto o in treno". La cosa mi sembrava insolita, anche per degli atleti. Tap, tap, tap, tap, tap, tap, faceva il ritmo acuto e vivace di Kanbaru mentre faceva strada alla mia bici, con la benda bianca sulla mano sinistra. Quando arrivammo a destinazione, con il respiro del tutto imperturbato, aveva in qualche modo accumulato solo un po' di sudore. 
 
@@ -2866,7 +2867,7 @@ Toccò la mano sinistra bestiale. 
 
 "È per questo che ho espresso un desiderio a questa mano."
 
-## 6.
+### 6.
 
 Sono certo che non ci sia bisogno di fare un riassunto de "La zampa di scimmia" di William Wymark Jacobs, ma non conoscendo la storia prima d'ora, ho pensato, beh, sì, che storia di fantasmi o dell'orrore ben costruita. Un racconto di terrore da manuale, collaudato e affidabile; in effetti, una volta ascoltato, ho avuto la sensazione di averlo già sentito da qualche parte. 
 
@@ -3442,7 +3443,7 @@ Oshino controllò il contenuto della busta. 
 
 Lui agitò lentamente la mano come per interromperla. "Cominciamo dall'inizio. Non sembra una storia molto felice. Le storie che riguardano le braccia non lo sono mai, nella mia esperienza. Specialmente se si tratta della mano sinistra."
 
-## 7.
+### 7.
 
 Mescolato tra le lattine di bibite schiacciate, le carte di caramelle e le confezioni vuote di noodle istantanei che avevo trovato pulendo la stanza di Suruga Kanbaru, c'era un unico oggetto che mi fece fermare: una scatola di paulonia lunga e sottile. Potevo percepirne l'età dal colore, e sebbene fosse coperta di graffi, probabilmente a causa di come Kanbaru la trattava con noncuranza, la scatola sembrava spessa e robusta. Immaginai che contenesse una qualche sorta di oggetto d'antiquariato... magari un vaso. La sua presenza, o il fatto che potesse contenere un oggetto del genere, non sembrava strana considerando quanto fosse imponente la casa giapponese in cui mi trovavo.
 
@@ -4008,7 +4009,7 @@ Ma il suo ragionamento suggeriva... 
 
 Così disse Oshino.
 
-## 8.
+### 8.
 
 A quanto pare il Diavolo della Pioggia è un diavolo molto violento: non c'è niente che ami di più della malizia e dell'ostilità umana, della vendetta e del dispiacere, della gelosia e dell'invidia, delle emozioni negative in generale. Vede nel lato più oscuro di una persona, lo provoca, lo tira fuori e poi lo rende reale. Ascolta i desideri delle persone per dispetto e li esaudisce per dispetto. Il contratto stesso consiste in tre desideri esauditi in cambio di un'anima umana. Si dice che, una volta esauditi i tre desideri, prenda la vita e il corpo di quella persona. In altre parole, alla fine lui o lei diventa il diavolo. Questa era la sua natura. Quindi, se un anno fa Kanbaru avesse espresso il desiderio di risolvere il segreto di Senjougahara dopo averne appreso l'esistenza, probabilmente non sarebbe stato esaudito. Il Diavolo della Pioggia può esaudire solo desideri violenti e negativi.
 
@@ -5154,7 +5155,7 @@ Beh, immagino che il potere dell'amore sia un'interpretazione, allora. 
 
 Pensando a queste cose, aspettando che il grosso buco nel mio stomaco si chiudesse, decisi semplicemente di guardare, senza fare battute, lo spettacolo saffico che si svolgeva davanti ai miei occhi. Se fossi stato in Oshino, avrei assunto arie nichiliste come se mi si addicessero, magari mi sarei ficcato in bocca una sigaretta spenta, e avrei chiesto a entrambe se fosse successo loro qualcosa di bello, ma purtroppo ero un minorenne.
 
-## 9.
+### 9.
 
 L'epilogo, o forse, la battuta finale di questa storia. 
 

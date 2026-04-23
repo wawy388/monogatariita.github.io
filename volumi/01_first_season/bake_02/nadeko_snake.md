@@ -4673,4 +4673,6 @@ Beh, questa è solo una mia congettura. Non ho prove concrete, e anche se avessi
 
 E non ha bisogno di saperlo nemmeno Sengoku. 
 
-Comunque la si guardi, sarebbe superfluo come mettere le scarpe a un serpente.**
+Comunque la si guardi, sarebbe superfluo come mettere le scarpe a un serpente.
+
+[ 🔙 TORNA ALL'INDICE ](../../../index.md)

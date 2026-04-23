@@ -16,8 +16,14 @@ Benvenuti nel mio tentativo di traduzione italiana fan made.
 * [🐌 Mayoi Snail](./volumi/01_first_season/bake_01/mayoi_snail.md)
 
 ### Bakemonogatari parte 2
-* [🐒 Suruga Monkey](./volumi/01_first_season/bake_02/suruga_monkey.md)
+* [🐒 Suruga Monkey](1_suruga_monkey.md)
 * [🐍Nadeko Snake](./volumi/01_first_season/bake_02/nadeko_snake.md)
+
+### Bakemonogatari parte 3
+* [🐈Tsubasa Cat](./volumi/01_first_season/bake_03/tsubasa_cat/tsubasa_cat)
+
+### Kizumonogatari
+* [🦇Koyomi vamp]
 
 ---
 
